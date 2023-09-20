@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodri!</h1>
-<img aling="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img aling="center" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ro.acampos04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ro.acampos04" height="30" width="40" /></a>
