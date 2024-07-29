@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodri!</h1>
+<h1 align="center"></h1>
 <img aling="center" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
